@@ -21,7 +21,8 @@
 		}
 	],
 	"require" : {
-		"symfony/framework-bundle" : ">=2.1"
+		"symfony/framework-bundle" : ">=2.1",
+		"stinger/ckeditor-lineutils-bundle": "4.4.8"
 	},
 	"suggest" : {
 		"Trsteel/ckeditor-bundle" : "The CKEditor Bundle we're using ;)"
