@@ -3,7 +3,7 @@ Symfony2 Bundle to integrate the CKEditor plugin Widget
 
 ## Current Version
 
-Widget v4.4.8
+Widget v4.5.1
 
 ## Installation
 
@@ -15,7 +15,7 @@ Widget v4.4.8
 {
     "require": {
 		// ...
-        "stinger/ckeditor-widget-bundle": "~4.4.8"
+        "stinger/ckeditor-widget-bundle": "~4.5.1"
     }
 }
 ```
